@@ -14,6 +14,8 @@ ZSH_THEME="robbyrussell"
 #POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(status user dir vcs)
 #POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=()
 
+alias vim="nvim"
+
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
